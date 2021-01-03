@@ -1,4 +1,9 @@
 MALLEXIB
 - Konsistensi dalam membuat konten 1 kali seminggu
 - konsisten olahraga 10 menit
+- Belajar ilmu IT
+ * Programmer
+ * Design
+ * Network
+NAH ITU SIPPP
 
